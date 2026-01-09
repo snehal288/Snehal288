@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Snehal Dhatrak 👋<br>Graduate Student at Stevens Institute of Technology | Aspiring Information Systems Specialist<br>I have been passionate about technology from early on, and my curiosity has only deepened over time. With a Bachelor’s degree in Electrical Engineering and professional experience at global company such as Infosys, I have gained practical exposure to software quality, automation, and data-driven solutions. My focus lies in Data Analytics, Process Innovation, and leveraging technology to solve real-world business problems.<br><br>I am deeply motivated by sharing knowledge and tackling technical challenges with creative, impactful solutions. Inspired by Stoic principles, I focus on what I can control—approaching challenges with clarity, resilience, and purposeful action to drive innovation.<br><br>🔭 I’m currently working on my Data science and Ai Portfolio<br><br>👯 I’m looking to collaborate on mini projects<br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-dhatrak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhatraksnehal28@gmail.com) 
 
